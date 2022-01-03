@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Juan Andrès (@jcarcelen25)
+- 👀 I’m interested in enhancing the quality of software development in Ecuador
+- 🌱 I’m currently learning security
+- 💞️ I’m looking to collaborate on friend's projects
+- 📫 juan.carcelen.1994@gmail.com
